@@ -1,0 +1,7 @@
+body { margin: 2rem; color: #172554; font: 16px Arial, sans-serif; }
+main { max-width: 480px; margin: 3rem auto; }
+form { display: grid; gap: .55rem; }
+input { padding: .65rem; border: 1px solid #94a3b8; }
+button { justify-self: start; margin-top: .5rem; padding: .6rem 1rem; cursor: pointer; }
+.success { color: #166534; }
+.error { color: #b91c1c; }

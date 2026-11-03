@@ -1,0 +1,7 @@
+body { margin: 2rem; color: #172554; font: 16px Arial, sans-serif; }
+main { max-width: 950px; margin: auto; }
+select { padding: .45rem; }
+table { width: 100%; margin-top: 1rem; border-collapse: collapse; }
+th, td { padding: .6rem; border: 1px solid #cbd5e1; text-align: left; }
+th { background: #dbeafe; }
+tbody tr:nth-child(even) { background: #f8fafc; }

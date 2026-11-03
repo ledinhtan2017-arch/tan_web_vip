@@ -1,0 +1,6 @@
+body { margin: 2rem; color: #172554; font: 16px Arial, sans-serif; }
+main { max-width: 600px; margin: auto; }
+input { box-sizing: border-box; width: 100%; padding: .7rem; border: 1px solid #94a3b8; }
+ul { margin: 0; padding: 0; list-style: none; }
+li { padding: .65rem; border: 1px solid #cbd5e1; border-top: 0; }
+li { cursor: pointer; }
